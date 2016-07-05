@@ -1,0 +1,10 @@
+
+ul a{
+text-decoration:none;
+padding-right:10px;
+color: #777;
+}
+ul a:hover{
+	text-decoration:underline;
+	color: black;
+	}

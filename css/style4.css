@@ -1,0 +1,11 @@
+h1{
+	font-size: 150px;
+	text-align: center;
+	margin-top: 20px;
+	font-family: cursive; 
+	letter-spacing: 5px;
+	color: black;
+	text-transform:lowercase;
+	text-shadow: 0 -1px 0 white;	 
+	font-variant: small-caps;
+}
